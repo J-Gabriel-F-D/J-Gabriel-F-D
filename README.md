@@ -21,8 +21,8 @@
 
 ### 📊 GitHub em números
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jgabrielfd0&show_icons=true&theme=transparent&hide_border=true&title_color=4CAF50&icon_color=4CAF50" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgabrielfd0&layout=compact&theme=transparent&hide_border=true&title_color=4CAF50" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=J-Gabriel-F-D&show_icons=true&theme=transparent&hide_border=true&title_color=4CAF50&icon_color=4CAF50" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Gabriel-F-D&layout=compact&theme=transparent&hide_border=true&title_color=4CAF50" />
 </div>
 
 ---
