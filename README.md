@@ -30,7 +30,8 @@
 
 ### 🌐 Conecte-se comigo
 📧 **Email:** [jgabrielfd0@gmail.com](mailto:jgabrielfd0@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/jose-gabriel-ferreira-dantas](https://www.linkedin.com/in/jose-gabriel-ferreira-dantas/)
+💼 **LinkedIn:** [linkedin.com/in/jose-gabriel-ferreira-dantas](https://www.linkedin.com/in/jose-gabriel-ferreira-dantas/)  
+📄 **Currículo:** [José Gabriel Ferreira Dantas](Currículo%20%E2%80%94%20Jos%C3%A9%20Gabriel%20Ferreira%20Dantas.md)
 
 ---
 
