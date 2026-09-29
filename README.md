@@ -1,38 +1,42 @@
-# 👋 Olá! Eu sou José Gabriel
+# 👋 Olá, eu sou José Gabriel
 
-🎓 Formado em **Análise e Desenvolvimento de Sistemas** pelo **IFPB - Campus Cajazeiras** (2025).  
-💻 **Desenvolvedor de Software** com foco em **Java e Spring Boot**, construção de **APIs REST** e aplicações robustas e escaláveis.  
-🚀 Apaixonado por boas práticas de arquitetura, qualidade de código e aprendizado contínuo.
+🎓 Formado em **Análise e Desenvolvimento de Sistemas pelo IFPB – Campus Cajazeiras (2025)**.
 
----
+💻 **Desenvolvedor Backend** com foco em **Java, Spring Boot e APIs REST**.
 
-### 🧠 Tecnologias que utilizo
-- **Linguagens:** Ruby, Java, TypeScript, C++, SQL
-- **Frameworks:** Ruby on Rails, Spring Boot, Node.js, React
-- **Banco de Dados:** PostgreSQL, MySQL, SQLite, MongoDB
-- **Ferramentas:** Docker, Docker Compose, Git
-- **Práticas:** APIs REST, JSON, versionamento, revisão de código, conceitos de CI/CD
+🚀 Atualmente estou aprofundando meus conhecimentos em **Engenharia de Software**, com foco em boas práticas, qualidade de código, testes e arquitetura.
 
----
+### 🛠️ Stack principal
 
-### 💼 Experiência profissional
-**Loopis Soluções Tecnológicas — Diretor de Marketing** *(2024 – 2025)*
-- Estratégias digitais orientadas a dados e alinhamento entre equipe técnica e marketing.
+* **Java**
+* **Spring Boot**
+* **Spring Data JPA**
+* **APIs REST**
+* **PostgreSQL / SQL**
+* **Docker / Docker Compose**
+* **Git / Maven**
+* **JUnit / Mockito**
 
-**Loopis Soluções Tecnológicas — Desenvolvedor Júnior / Consultor** *(2022 – 2023)*
-- APIs REST escaláveis em Java (Spring Boot) e Node.js.
-- Integrações com PostgreSQL, MySQL, MongoDB e SQLite.
-- Interfaces responsivas com React e TypeScript.
-- Padronização de ambientes com Docker e Docker Compose.
-- Participação ativa em revisão de código e padrões de desenvolvimento.
+### 📌 Outros conhecimentos
 
----
+* Node.js
+* TypeScript / JavaScript
+* React
+* Angular
+* MySQL / MongoDB / SQLite
+* Ruby on Rails
 
-### 🌐 Conecte-se comigo
-📧 **Email:** [jgabrielfd0@gmail.com](mailto:jgabrielfd0@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/jose-gabriel-ferreira-dantas](https://www.linkedin.com/in/jose-gabriel-ferreira-dantas/)  
-📄 **Currículo:** [José Gabriel Ferreira Dantas](Currículo%20%E2%80%94%20Jos%C3%A9%20Gabriel%20Ferreira%20Dantas.md)
+### 🚀 Projetos
 
----
+Alguns projetos que estou desenvolvendo para praticar e aprofundar meus conhecimentos em Backend e Engenharia de Software:
 
-💬 _"Se compilar de primeira, desconfie."_
+* **[StockCare](https://github.com/J-Gabriel-F-D/StockCare)** — aplicação para gerenciamento de estoque.
+* **Blogging Platform API** — API REST desenvolvida como projeto de estudo.
+* **Personal Expenses** — aplicação para gerenciamento de despesas pessoais.
+
+### 📫 Contato
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/jose-gabriel-ferreira-dantas/)
+* 📧 [jgabrielfd0@gmail.com](mailto:jgabrielfd0@gmail.com)
+
+> "Se compilar de primeira, desconfie."
